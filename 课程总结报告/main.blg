@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty journal in 大数据平台的测震数据流实时可视化系统设计与实现
+Warning--empty year in 大数据平台的测震数据流实时可视化系统设计与实现
+Warning--empty publisher in 基于WebGIS的新冠肺炎疫情可视化系统研发2020
+Warning--empty journal in 基于大数据可视化技术的信息系统AC审计
+Warning--empty year in 基于大数据可视化技术的信息系统AC审计
+You've used 3 entries,
+            2118 wiz_defined-function locations,
+            507 strings with 4442 characters,
+and the built_in function-call counts, 634 in all, are:
+= -- 52
+> -- 21
+< -- 0
++ -- 9
+- -- 6
+* -- 34
+:= -- 118
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 32
+empty$ -- 57
+format.name$ -- 6
+if$ -- 122
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 4
+newline$ -- 16
+num.names$ -- 6
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 15
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 10
+warning$ -- 5
+while$ -- 6
+width$ -- 4
+write$ -- 25
+(There were 5 warnings)
